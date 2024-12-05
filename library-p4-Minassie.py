@@ -8,8 +8,6 @@
     Simply interact with our user-friendly interface and we'll do the heavy-lifting. Happy reading!
 """
 
-#    WRITE YOUR CODE HERE     #
-# GOOD LUCK! YOU'VE GOT THIS! #
 
 ############          IMPORT AND EXPORT FUNCTIONS         ############
 
